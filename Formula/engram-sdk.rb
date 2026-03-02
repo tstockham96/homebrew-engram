@@ -1,8 +1,8 @@
 class EngramSdk < Formula
   desc "Persistent memory layer for AI agents - MCP server, REST API, CLI"
   homepage "https://www.engram.fyi"
-  url "https://registry.npmjs.org/engram-sdk/-/engram-sdk-0.5.2.tgz"
-  sha256 "8158b51f2a33224a91a3135fb74462d97ca156c52ce4072543d19748729768e1"
+  url "https://registry.npmjs.org/engram-sdk/-/engram-sdk-0.5.3.tgz"
+  sha256 "9145d743234bcf6fe7c58342ba3aded0f826e9e890c569085cb8534721eb730d"
   license "MIT"
 
   depends_on "node@22"
